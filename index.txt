@@ -1,0 +1,6 @@
+1. Node.js install 
+
+2. NPM => node package manger .
+
+
+
